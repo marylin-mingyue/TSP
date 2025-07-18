@@ -20,7 +20,7 @@ Traditional Graph Theory Method and Intelligent Optimization Method （Approxima
 ### Introduction to TSP
 
 In the world of "The theorem of computation complexity", 
-<img width="463" height="652" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/556461f6-8ed2-4c10-bc72-a9116aac573c" />
+<img width="154" height="217" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/556461f6-8ed2-4c10-bc72-a9116aac573c" />
 
 
 
