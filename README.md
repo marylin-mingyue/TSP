@@ -19,8 +19,13 @@ Traditional Graph Theory Method and Intelligent Optimization Method （Approxima
 
 ### Introduction to TSP
 
-In the world of "The theorem of computation complexity", 
-<img width="154" height="217" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/556461f6-8ed2-4c10-bc72-a9116aac573c" />
+In the world of "The theorem of computation complexity", there has four types of problem.
+
+1. Polynomial Problem (P): Problems that can be solved in polynomial time.
+2. Nondeterministic Polynominal Problem (NP) : Problems that can be proved true or false in polynominal time, but could not determine to solve in  polynomial time.
+== note : NP problem is not the complement of the P problem, as "N" is Nondeterministic instead of "Not" ==  
+
+<img width="154" height="234" alt="Untitled Diagram drawio (1)" src="https://github.com/user-attachments/assets/d039787c-bfaa-428a-9d19-cbff93358773" />
 
 
 
