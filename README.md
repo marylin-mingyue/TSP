@@ -5,7 +5,7 @@ Traditional Graph Theory Method and Intelligent Optimization Method （Approxima
 ## Quick Start
 
 - [Introduction to TSP](#introduction-to-TSP)
-  - [Promblem Restatement](#Problem Restatement)
+  - [Promblem Restatement](#Problem-Restatement)
   - [Overview of Algorithm](#安装步骤)
 - [文件目录说明](#文件目录说明)
 - [开发的架构](#开发的架构)
@@ -40,7 +40,7 @@ Discribe them in a graph:
 <img width="154" height="234" alt="Untitled Diagram drawio (1)" src="https://github.com/user-attachments/assets/d039787c-bfaa-428a-9d19-cbff93358773" />
 
 
-#### Problem Restatement
+#### Problem-Restatement
 ### Author
 mingyuexu10@gmail.com
 qq:2973965625
