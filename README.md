@@ -4,7 +4,7 @@ Traditional Graph Theory Method and Intelligent Optimization Method （Approxima
 
 ## Quick Start
 
-- [Introduction to TSP](#Introduction to TSP)
+- [Introduction to TSP](#introduction-to-TSP)
   - [Promblem Restatement](#Problem Restatement)
   - [Overview of Algorithm](#安装步骤)
 - [文件目录说明](#文件目录说明)
@@ -17,7 +17,7 @@ Traditional Graph Theory Method and Intelligent Optimization Method （Approxima
 - [作者](#作者)
 - [鸣谢](#鸣谢)
 
-### Introduction to TSP
+### introduction-to-TSP
 
 In the world of "The theorem of computation complexity", there has four types of problem.
 
