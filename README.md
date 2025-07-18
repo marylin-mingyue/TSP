@@ -24,7 +24,7 @@ In the world of "The theorem of computation complexity", there has four types of
 1. Polynomial Problem (P): Problems that can be solved in polynomial time.
 2. Nondeterministic Polynominal Problem (NP) : Problems that can be proved true or false in polynominal time, but could not determine to solve in  polynomial time.
    
-</fontcolor="LightPink"> note : NP problem is not the complement of the P problem, as "N" is Nondeterministic instead of "Not" </font>
+== note : NP problem is not the complement of the P problem, as "N" is Nondeterministic instead of "Not" == 
 
 <img width="154" height="234" alt="Untitled Diagram drawio (1)" src="https://github.com/user-attachments/assets/d039787c-bfaa-428a-9d19-cbff93358773" />
 
