@@ -6,16 +6,8 @@ Traditional Graph Theory Method and Intelligent Optimization Method （Approxima
 
 - [Introduction to TSP](#introduction-to-TSP)
   - [Promblem Restatement](#Problem-Restatement)
-  - [Overview of Algorithm](#安装步骤)
-- [文件目录说明](#文件目录说明)
-- [开发的架构](#开发的架构)
-- [部署](#部署)
-- [使用到的框架](#使用到的框架)
-- [贡献者](#贡献者)
-  - [如何参与开源项目](#如何参与开源项目)
-- [版本控制](#版本控制)
-- [作者](#作者)
-- [鸣谢](#鸣谢)
+  - [Overview of Algorithms](#Overview-of-the-Algorithms)
+
 
 ## introduction-to-TSP
 
@@ -38,6 +30,13 @@ Discribe them in a graph:
 
 
 ## Problem-Restatement
-### Author
-mingyuexu10@gmail.com
-qq:2973965625
+
+ Traveling Salesperson Problem
+
+Given a list of cities and the distances between each pair of cities, the TSP seeks to find a Hamiltonian cycle (a cycle that visits each vertex exactly once) with the minimum total distance. 
+
+## Overview-of-the-Algorithms
+
+
+
+
