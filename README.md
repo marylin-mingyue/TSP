@@ -40,9 +40,7 @@ Given a list of cities and the distances between each pair of cities, the TSP se
 
 | Type | Algorithm's name | Code |
 |---|---|---|
-| heuristics Algorithm | Construction Algorithm: Insertation\
-Improvement : First-improve, best-improve,\
-Operator : 2-Exchange, 2-Opt | [code](https://github.com/marylin-mingyue/TSP/blob/main/TSP.cpp) |
+| heuristics Algorithm | Construction Algorithm: Insertation,<br>Improvement : First-improve, best-improve,<br>Operator : 2-Exchange, 2-Opt | [code](https://github.com/marylin-mingyue/TSP/blob/main/TSP.cpp) |
 
 
 
