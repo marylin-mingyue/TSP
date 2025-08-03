@@ -38,7 +38,7 @@ vector <City> ReadCities (const string &file_name) {
 }
 
 double Distance (int a, int b, vector <City> &cities) {
-    double d=pow((cities[a].x-cities[b].x),2) + pow((cities[a].y-cities[b].y),2); //离散数学学中毒了
+    double d=pow((cities[a-1].x-cities[b-1].x),2) + pow((cities[a-1].y-cities[b-1].y),2); //离散数学学中毒了
     return sqrt(d);
 }
 
@@ -170,7 +170,7 @@ vector <int> Exchange_2_first_improve (vector <int> &con,vector <City> &cities) 
 //随机
 vector <int> Constructor (vector <City> &cities) {
     vector <int> con;
-    for (int i=1;i<cities.size();i++) {
+    for (int i=0;i<cities.size();i++) {
         con.push_back(cities[i].id);
     }
     //C++ 11 new requirement  equals to srand(time(0));
@@ -248,7 +248,7 @@ vector<int> Constructor_insert(vector<City> &cities) {
 }
 void Interactive_Improvement (vector <City> &cities) {
     vector <int> tmp;
-    tmp=Constructor_insert(cities);
+    tmp=Constructor(cities);
 
 
     vector <int> start=tmp;
