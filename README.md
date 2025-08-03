@@ -30,7 +30,7 @@ Discribe them in a graph:
 <img width="154" height="234" alt="Untitled Diagram drawio (1)" src="https://github.com/user-attachments/assets/d039787c-bfaa-428a-9d19-cbff93358773" />
 
 
-## Problem-Restatement
+### Problem-Restatement
 
  Traveling Salesperson Problem
 
@@ -56,4 +56,7 @@ Given a list of cities and the distances between each pair of cities, the TSP se
 [code](https://github.com/marylin-mingyue/TSP/blob/main/vis.py)
 
 ## Simulated-Annealing
+
+
+<img width="370" height="402" alt="截屏2025-08-03 上午11 25 48" src="https://github.com/user-attachments/assets/8719e30d-0238-4f1e-bd15-8fc7495e8825" />
 
