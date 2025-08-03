@@ -48,8 +48,9 @@ Given a list of cities and the distances between each pair of cities, the TSP se
 
 
 ## Performance-Analysis
+<img width="603" height="453" alt="截屏2025-08-03 上午10 06 34" src="https://github.com/user-attachments/assets/68b1f227-6274-4902-8fda-6796e5ab8c0f" />
 
-<img width="400" height="300" alt="截屏2025-08-03 上午8 51 07" src="https://github.com/user-attachments/assets/ce404d05-539c-4c1a-9c31-1446313de234" />
+
 
 
 [code](https://github.com/marylin-mingyue/TSP/blob/main/vis.py)
