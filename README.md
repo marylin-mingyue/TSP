@@ -57,6 +57,7 @@ Given a list of cities and the distances between each pair of cities, the TSP se
 
 ## Simulated-Annealing
 
+<img src="https://github.com/marylin-mingyue/TSP/blob/main/Graph/Interactive%20Algorithm.png" style="width: 50%; height: auto;" alt="图片描述">
 
 
-![common_interaction_algorithm_implement](https://github.com/marylin-mingyue/TSP/blob/main/Graph/Interactive%20Algorithm.png)![SA_implement](https://github.com/marylin-mingyue/TSP/blob/main/Graph/SA_implement.png)
+![SA_implement](https://github.com/marylin-mingyue/TSP/blob/main/Graph/SA_implement.png)
