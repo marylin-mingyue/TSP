@@ -58,6 +58,5 @@ Given a list of cities and the distances between each pair of cities, the TSP se
 ## Simulated-Annealing
 
 
-![example](<img width="370" height="402" alt="截屏2025-08-03 上午11 25 48" src="https://github.com/user-attachments/assets/e8b0435d-922b-48f1-980a-01b7523c5790" />
- "这是图片的示例")
+![How Interactive Algorithm Implement?](Interactive_Algorithm.png)
 
